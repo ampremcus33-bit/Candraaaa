@@ -45,7 +45,7 @@ const ContactPage = () => {
 
     try {
       // Ganti dengan email Anda di FormSubmit
-      const formSubmitUrl = 'https://formsubmit.co/cssandramontgommery@gmail.com';
+      const formSubmitUrl = 'https://formsubmit.co/el/komute';
       
       // Siapkan data form untuk FormSubmit
       const submitData = new FormData();
