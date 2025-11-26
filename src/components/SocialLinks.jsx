@@ -33,7 +33,7 @@ const socialLinks = [
   {
     name: "WhatsApp",
     displayName: "WhatsApp",
-    subText: "Candra Hartaanto",
+    subText: "Candra Hartanto",
     icon: Phone,
     url: "https://wa.me/6282140646954",
     color: "#0dfa0dff",
